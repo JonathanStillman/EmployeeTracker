@@ -2,7 +2,7 @@
   "name": "employeetracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jonathanstillman.github.io/employeetracker",
+  "homepage": "https://jonathanstillman.github.io/EmployeeTracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
